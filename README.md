@@ -6,11 +6,12 @@ Your readme should include the following information. Each student needs to subm
 
 Group Member Name(s):
 
-Other collaborators you worked with, including TAs (and feel free to give a shoutout to anyone who was particularly helpful):
+Other collaborators you worked with, including TAs (and feel free to give a shoutout to anyone who was particularly helpful): Jade Lili
 
-Any references used besides JavaDoc and course materials:
+Any references used besides JavaDoc and course materials: We looked at the wiki page 
 
 Reflection on your experience with this assignment:
 
 This assignment does lend itself to more visual prototyping, so please feel free to go this route. Are you including slides, pseudocode, comments, or something else?
 
+The postfix part of the assignment was easier to understand than the infix. We drew a lot of the problems out on the board so I could vizualize what the code was doing. 
