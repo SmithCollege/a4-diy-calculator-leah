@@ -49,6 +49,8 @@ public class Tokenizer {
     return queue;
   }
 
+ 
+
   /** Run short test */
   public static void main(String[] args) {
     if (args.length==0) {
